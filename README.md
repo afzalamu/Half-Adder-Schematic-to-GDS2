@@ -112,6 +112,7 @@ The final design was exported in GDSII format for tape-out or further processing
 - **GPDK90**: A generic process design kit based on 90 nm technology
 
 ---
+## Acknowledgement
 
-This repository provides all files required for each design step. Please feel free to clone or download the repository for educational or reference purposes.
+We gratefully acknowledge the support from the C-JOPS to Startup (C2S) program, MeitY, Government of India, provided to Aligarh Muslim University, which enabled us to access industry-standard tools and training resources. We also extend our sincere gratitude to our course instructor for their invaluable guidance throughout this project. This work is part of the Digital IC Design course in Semester 7 of the B.Tech Electronics Engineering program at Aligarh Muslim University.
 
