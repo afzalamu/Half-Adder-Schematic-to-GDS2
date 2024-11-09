@@ -1,7 +1,7 @@
 # Half-Adder-Schematic-to-GDS2
 Half Adder Schematic to GDS2  using GPDK90 in Cadence
 
-#SCHEMATIC CREATION
+# SCHEMATIC CREATION
 
 ![halfaddersch](https://github.com/user-attachments/assets/00923989-1dde-4d5b-8b71-0a2181dc0191)
 
